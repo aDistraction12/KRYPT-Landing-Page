@@ -11,7 +11,7 @@ const Download = () => {
           <h1 className={`${styles.h1Text} ${styles.blackText}`}>Download the Source Code</h1>
           <p className={`${styles.pText} ${styles.blackText}`}>Get the full source code on GitHub</p>
         </div>
-        <a href=""><button className={styles.btnPrimary}>Source Code</button></a>
+        <a href="https://github.com/aDistraction12/Krypt" target="_blank"><button className={styles.btnPrimary}>Source Code</button></a>
         <div className={styles.flexCenter}>
           <img 
             src={assets.scene}
